@@ -1,0 +1,21 @@
+.div-container{
+    font-size: 40px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+}
+.d1{
+    background-color: aqua;
+}
+.d2{
+    background-color: orange;
+}
+.d3{
+    background-color: aliceblue;
+}
+.d4{
+    background-color: pink;
+}
+.d5{
+    background-color: greenyellow;
+}
