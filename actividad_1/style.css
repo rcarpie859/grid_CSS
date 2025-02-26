@@ -1,21 +1,22 @@
-.div-container{
+.container {
     font-size: 40px;
     width: 100%;
-    background-color: lightgray;
+    background-color: LightGray;
     display: grid;
-}
-.d1{
+  }
+  .d1 {
     background-color: aqua;
-}
-.d2{
-    background-color: orange;
-}
-.d3{
-    background-color: aliceblue;
-}
-.d4{
-    background-color: pink;
-}
-.d5{
-    background-color: greenyellow;
-}
+  }
+  .d2 {
+    background-color: orangered;
+  }
+  .d3 {
+    background-color: aquamarine;
+  }
+  .d4 {
+    background-color: lightpink;
+  }
+  .d5 {
+    background-color: lightgreen;
+  }
+  
