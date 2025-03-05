@@ -1,0 +1,31 @@
+.container {
+    font-size: 40px;
+    width: 100%; 
+    background-color: LightGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 10px;
+}
+
+.d1 {
+    background-color: aqua;
+}
+
+.d2 {
+    background-color: orangered;
+    justify-self: center;
+}
+
+.d3 {
+    background-color: aquamarine;
+    align-self: center;
+}
+
+.d4 {
+    background-color: pink;
+}
+
+.d5 {
+    background-color: lightgreen;
+    
+}
